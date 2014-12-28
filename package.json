@@ -1,0 +1,23 @@
+{
+  "name": "sandesh-github-api",
+  "version": "0.0.1",
+  "description": "Simplified Github API for fetching repositories, issues, gists, pull-requests, users.",
+  "main": "sandesh-github-api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sandeshdamkondwar/sandesh-github-api"
+  },
+  "keywords": [
+    "github",
+    "github-api"
+  ],
+  "author": "Sandesh Damkondwar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sandeshdamkondwar/sandesh-github-api/issues"
+  },
+  "homepage": "https://github.com/sandeshdamkondwar/sandesh-github-api"
+}
